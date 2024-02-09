@@ -1,0 +1,11 @@
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\bin\Debug\Task_2.ПЗ_з_графічним_інтерфейсом_для_розв_язання_КР.exe.config
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\bin\Debug\Task_2.ПЗ_з_графічним_інтерфейсом_для_розв_язання_КР.exe
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\bin\Debug\Task_2.ПЗ_з_графічним_інтерфейсом_для_розв_язання_КР.pdb
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\obj\Debug\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР.csproj.AssemblyReference.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\obj\Debug\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР.csproj.SuggestedBindingRedirects.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\obj\Debug\Task_2.ПЗ_з_графічним_інтерфейсом_для_розв_язання_КР.Form1.resources
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\obj\Debug\Task_2.ПЗ_з_графічним_інтерфейсом_для_розв_язання_КР.Properties.Resources.resources
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\obj\Debug\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР.csproj.GenerateResource.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\obj\Debug\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР.csproj.CoreCompileInputs.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\obj\Debug\Task_2.ПЗ_з_графічним_інтерфейсом_для_розв_язання_КР.exe
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 2. ПЗ з графічним інтерфейсом для розв'язання КР\obj\Debug\Task_2.ПЗ_з_графічним_інтерфейсом_для_розв_язання_КР.pdb
