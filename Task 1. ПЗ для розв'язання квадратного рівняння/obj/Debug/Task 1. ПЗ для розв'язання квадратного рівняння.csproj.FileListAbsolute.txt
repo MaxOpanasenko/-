@@ -1,0 +1,8 @@
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 1. ПЗ для розв'язання квадратного рівняння\bin\Debug\Task_1.ПЗ_для_розв_язання_квадратного_рівняння.exe.config
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 1. ПЗ для розв'язання квадратного рівняння\bin\Debug\Task_1.ПЗ_для_розв_язання_квадратного_рівняння.exe
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 1. ПЗ для розв'язання квадратного рівняння\bin\Debug\Task_1.ПЗ_для_розв_язання_квадратного_рівняння.pdb
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 1. ПЗ для розв'язання квадратного рівняння\obj\Debug\Task 1. ПЗ для розв'язання квадратного рівняння.csproj.AssemblyReference.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 1. ПЗ для розв'язання квадратного рівняння\obj\Debug\Task 1. ПЗ для розв'язання квадратного рівняння.csproj.SuggestedBindingRedirects.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 1. ПЗ для розв'язання квадратного рівняння\obj\Debug\Task 1. ПЗ для розв'язання квадратного рівняння.csproj.CoreCompileInputs.cache
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 1. ПЗ для розв'язання квадратного рівняння\obj\Debug\Task_1.ПЗ_для_розв_язання_квадратного_рівняння.exe
+C:\Users\upara\OneDrive\Рабочий стол\kol\Task 1. ПЗ для розв'язання квадратного рівняння\obj\Debug\Task_1.ПЗ_для_розв_язання_квадратного_рівняння.pdb
